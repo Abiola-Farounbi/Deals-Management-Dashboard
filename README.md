@@ -1,4 +1,4 @@
-# Deal Management Dashboard
+# Deals Management Dashboard
 
 ## Setup and Running the Project
 
@@ -10,7 +10,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/deals-manager.git
+   git clone https://github.com/Abiola-Farounbi/Deals-Management-Dashboard.git
    cd deals-manager
    ```
 
