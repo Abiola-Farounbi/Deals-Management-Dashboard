@@ -13,7 +13,7 @@
 - **Tailwind CSS for Styling**: Chosen for its utility-first approach, which allows for rapid and consistent styling across the application.
 - **Drag-and-Drop Functionality**: Implemented in the `KanbanView` component to allow users to move deals between different stages.
 
-## Known Limitations or Areas for Improvement
+## Areas for Improvement
 - **Error Handling**: Currently, there is minimal error handling. Adding more robust error handling and user feedback would improve the user experience.
 
 
